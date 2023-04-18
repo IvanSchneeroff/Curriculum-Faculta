@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(236, 255, 127);
+}
+h1 {
+    text-align: center;
+  color: rgb(71, 42, 53);
+  background-color: rgb(236, 255, 127);
+  border: 10px solid;
+  margin: 10px;
+}
+ul {
+  color: rgb(185, 38, 204);
+  display: flex; 
+  gap: 12px;
+}
+.dp2 {
+  color: black;
+}
+.dp3 {
+  color: black;
+}
+.estudios1 {
+    color: black;
+
+}
+  
+.contenedor{
+    display: flex; 
+    align-items: center;
+    width: 100;
+}
+li {
+    list-style: none;
+    background-color: green;
+    padding: .75rem;
+    border-radius: 1rem;
+}
+.contenedor ul{ width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  border: 5px solid black; 
+  margin: 20px; 
+
+}
